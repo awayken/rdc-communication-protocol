@@ -1,0 +1,23 @@
+{
+  "name": "rdc-communication-protocol",
+  "version": "1.0.0",
+  "description": "Robot Dance Club - Communication Protocol",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc src/* --outDir dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awayken/rdc-communication-protocol.git"
+  },
+  "author": "Miles Rausch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awayken/rdc-communication-protocol/issues"
+  },
+  "homepage": "https://github.com/awayken/rdc-communication-protocol#readme",
+  "dependencies": {
+    "typescript": "^3.5.1"
+  }
+}
