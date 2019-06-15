@@ -1,4 +1,4 @@
-import { KaraokeRobot } from './KaraokeRobot';
+import { KaraokeRobot } from './implementation/KaraokeRobot';
 
 const holo = new KaraokeRobot('holo');
 
