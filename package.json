@@ -5,6 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "build": "tsc src/* --outDir dist",
+    "start": "node ./dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
